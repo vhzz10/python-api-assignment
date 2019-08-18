@@ -12,3 +12,4 @@ falcon-autocrud==1.0.36
 passlib==1.7.1
 PyJWT==1.7.1
 SQLAlchemy-Utils==0.34.0
+mock==3.0.5
