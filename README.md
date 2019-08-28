@@ -20,12 +20,16 @@ Output is if not matching:
      
 
 Definition Tables to compare:
-    `
+    
     COLUMNS
+    
     INDEXES
+    
     CHECK CONSTRAINTS
+    
     FOREIGN-KEY CONSTRAINTS
+    
     REFERENCED BY
-    `
+    
 
 Difference files will be stored in `diff`
